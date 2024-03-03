@@ -1,0 +1,54 @@
+/* for a max width of 600px */
+*{
+    margin: 0;
+    padding: 0
+    ;
+    box-sizing: border-box;
+}
+
+.it{
+    font: 1em sans-serif;
+    padding: 1vh;
+}
+
+.it:hover{
+    color: #fE7FD6;
+
+}
+
+
+.pictures{
+    display: grid;
+    grid-template-areas: 
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign"
+    "menu sign sign";
+}
+
+
+.menu{
+    
+    grid-template-areas: menu;
+    padding: 3vh;
+    position: sticky;
+}
+
+img{
+    padding: 1vh;
+    width: 50vh;
+    
+}
+
+.pic.sign{
+    height: 30vh;
+}
+
+.imeges{
+    pi
+
+}

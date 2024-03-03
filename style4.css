@@ -1,0 +1,163 @@
+/* max width of 1300px */
+
+/* @media screen and (min-width: 1200px) {
+    body { */
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: 'Montserrat';   
+}
+
+a{
+    color: black;
+}
+
+a:hover {
+    color: hotpink;
+  }
+
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+     color: none ;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+
+.it:hover{
+    color: #fE7FD6;
+
+} 
+
+
+.menu{
+    display: inline-block;
+width: 5vh;
+position: fixed;
+/* z-index: 1; */
+height: 100vh;
+background-color: white;
+
+}
+
+
+img{
+    width: 180vh;
+    /* padding-left: ; */
+
+}
+.imeges{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 3vh;
+}
+
+.it{
+    padding-left: 5vh;
+    padding-top: 3vh;
+    padding-right: 0;
+    display: list-item;
+}
+
+#rr{
+    width: 30vh;
+}
+
+/* .it logo{
+    width: 0vh; */
+}
+
+/* }
+} */
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* min width 1100 maxw width 1200*/
+
+
+/* max width of 1200px */
+
+
+
+/* @media screen and (min-width: 1100px) (max-width: 1200px) {
+    body { */
+
+
+/* *{
+
+    margin: 0;
+    padding: 0;
+}
+
+.it:hover{
+    color: #fE7FD6;
+
+} 
+
+
+.menu{
+    display: inline-block;
+width: 5vh;
+position: fixed;
+
+}
+
+
+img{
+    width: 160vh;
+    /* padding-left: ; */
+
+/* }
+.imeges{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 3vh;
+}
+
+.it{
+    padding-left: 5vh;
+    padding-top: 3vh;
+    padding-right: 0;
+    display: list-item;
+}
+.it logo{
+    width: 0vh;
+}
+#rr{
+    width: 30vh; */
+/* } */ */
+
+/* }
+} */
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* min width 1100 maxw width 1200*/
+
+
+
+@media screen (max-width: 600px) {
+    
+    body{
+        background-color: lightblue;
+    
+
+    }
+
+
+
+}
+
+
+

@@ -1,0 +1,118 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Montserrat';   
+}
+
+
+.it:hover{
+    color: #fE7FD6;
+
+} 
+
+
+.menu{
+    display: inline-block;
+width: 5vh;
+position: fixed;
+
+}
+
+#rr{
+    width: 30vh;
+}
+
+.it{
+    padding-left: 5vh;
+    padding-top: 3vh;
+    padding-right: 0;
+    display: list-item;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    font-family: 'Montserrat';   
+}
+
+a{
+    color: black;
+}
+
+a:hover {
+    color: hotpink;
+  }
+
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+     color: none ;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+
+.it:hover{
+    color: #fE7FD6;
+
+} 
+
+
+.menu{
+    display: inline-block;
+width: 5vh;
+position: fixed;
+
+}
+
+
+
+
+
+
+.continer{
+    position: absolute;
+    right: 0;
+    top: 0px;
+    width: 120vh;
+    height: 100vh;
+    padding: 2vh;
+}
+
+li{
+    padding-left: 8px;
+}
+
+.flotright{
+    /* background-color: bisque; */
+    
+    float: left;
+    left: 25vh;
+    width: 65vh;
+
+}
+
+.flotleft{
+    float: right;
+    width: 50vh;
+    
+}
